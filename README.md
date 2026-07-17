@@ -11,7 +11,7 @@ You may use, copy, modify, and redistribute the source code, including for comme
 
 ### Documentation and media
 
-Copyright © 2026 [YOUR FULL LEGAL NAME]. All rights reserved.
+Copyright © 2026 Charles Forsyth. All rights reserved.
 
 The written instructions, tutorials, diagrams, illustrations, photographs, screenshots, graphics, videos, and other documentation in this repository are not covered by the MIT License.
 
