@@ -1,6 +1,6 @@
 # Documentation Copyright Notice
 
-Copyright © 2026 [YOUR FULL LEGAL NAME]. All rights reserved.
+Copyright © 2026 Charles Forsyth. All rights reserved.
 
 ## Covered Materials
 
@@ -51,7 +51,7 @@ To the maximum extent permitted by law, the copyright owner will not be liable f
 
 Requests for permission must be sent to:
 
-[YOUR FULL LEGAL NAME]
-[YOUR EMAIL ADDRESS OR WEBSITE]
+Charles Forsyth
+charles@charlesforsyth.com
 
 Permission is granted only through express written authorization from the copyright owner. Silence or failure to respond does not constitute permission.
