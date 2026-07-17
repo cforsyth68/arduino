@@ -1,3 +1,39 @@
+/**
+ * Zigbee occupancy sensor using an AM312 mini PIR sensor
+ * and an SSD1306 OLED display.
+ *
+ * Wiring:
+ *
+ * AM312:
+ *   VCC -> ESP32-H2 3.3V
+ *   OUT -> GPIO14
+ *   GND -> GND
+ *
+ * SSD1306 OLED:
+ *   VCC -> ESP32-H2 3.3V
+ *   GND -> GND
+ *   SDA -> GPIO10
+ *   SCL -> GPIO11
+ *
+ * External button:
+ *   One side -> GPIO12
+ *   Other side -> GND
+ *
+ * Button behavior:
+ *   Brief press:
+ *     Turns the OLED on for 10 seconds.
+ *
+ *   Hold for 3 seconds:
+ *     Factory-resets the Zigbee network settings and restarts.
+ *
+ * Display behavior:
+ *   1. Remains on while waiting to join Zigbee.
+ *   2. Shows connection instructions.
+ *   3. Remains on during the AM312 warm-up period.
+ *   4. Turns off when warm-up finishes.
+ *   5. Wakes for 10 seconds after a brief button press.
+ */
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -16,7 +52,7 @@ constexpr uint8_t OCCUPANCY_SENSOR_ENDPOINT_NUMBER = 10;
 constexpr uint8_t OLED_SDA_PIN = 10;
 constexpr uint8_t OLED_SCL_PIN = 11;
 constexpr uint8_t EXTERNAL_BUTTON_PIN = 12;
-constexpr uint8_t AM312_PIN = 13;
+constexpr uint8_t AM312_PIN = 14;
 
 /* OLED configuration */
 constexpr uint8_t OLED_ADDRESS = 0x3C;
@@ -587,8 +623,8 @@ void setup() {
   initializeDisplay();
 
   zbOccupancySensor.setManufacturerAndModel(
-      "CharlesForsythDesign",
-      "AM312-PIR-Sensor"
+      "CFDesign",
+      "Homemade-PIR-Occupancy-Sensor"
   );
 
   Zigbee.addEndpoint(&zbOccupancySensor);
