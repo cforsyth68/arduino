@@ -3,19 +3,11 @@ Tutorial example C++ Arduino Code for ESP32 boards
 
 ## Licensing
 
-### Example source code
+Source code is licensed for noncommercial use under the PolyForm
+Noncommercial License 1.0.0. Commercial use requires a separate written
+license. See [LICENSE-CODE.md](LICENSE-CODE.md) and
+[COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md).
 
-Unless otherwise stated, the source code in this repository is licensed under
-the PolyForm Noncommercial License 1.0.0. See `LICENSE-CODE.md`.
-
-Commercial use is not permitted without a separate written commercial license.
-
-### Instructions and documentation
-
-The written instructions, tutorials, diagrams, photographs, and other
-documentation are not licensed for copying, modification, redistribution, or
-commercial use. All rights are reserved. See `LICENSE-DOCUMENTATION.md`.
-
-### Commercial licensing
-
-For commercial licensing inquiries, see `COMMERCIAL-LICENSING.md`.
+Written instructions, diagrams, images, and other documentation are
+copyrighted and may not be copied, modified, or redistributed without
+permission. See [LICENSE-DOCUMENTATION.md](LICENSE-DOCUMENTATION.md).
