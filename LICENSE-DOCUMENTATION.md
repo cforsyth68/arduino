@@ -1,48 +1,57 @@
-# Documentation Copyright and Usage Terms
+# Documentation Copyright Notice
 
-Copyright © 2026 Charles Forsyth. All rights reserved.
+Copyright © 2026 [YOUR FULL LEGAL NAME]. All rights reserved.
 
-## Materials Covered
+## Covered Materials
 
-These terms apply to the written instructions, tutorials, explanations, diagrams, illustrations, photographs, screenshots, graphics, downloadable documents, and other documentation contained in this repository, collectively referred to as the “Documentation.”
+This notice applies to all original documentation in this repository, including:
 
-Source code is governed separately by `LICENSE-CODE.md`.
+* Written instructions and tutorials
+* Explanations and articles
+* Diagrams and illustrations
+* Photographs and screenshots
+* Graphics and other images
+* Video scripts and accompanying materials
+* Downloadable documents
+* Other non-code creative content
 
-## Limited Permission for Personal Use
+Source code is licensed separately under the MIT License in the repository’s `LICENSE` file.
 
-You may access, read, and refer to the Documentation for your own personal, noncommercial use, including following the Documentation to build or configure a project.
+## Permitted Use
 
-This limited permission does not transfer ownership and does not grant permission to reproduce, publish, distribute, adapt, or commercially exploit the Documentation.
+You may access and read the documentation and use it as a reference for following the associated tutorials and building your own projects.
 
-## Uses Not Permitted
+You may link to the original repository or associated tutorial videos, provided the link does not falsely imply sponsorship, endorsement, affiliation, or authorization.
 
-Except with prior written permission from the copyright owner, you may not:
+## Prohibited Use
 
-1. Copy or reproduce the Documentation, in whole or in substantial part.
-2. Republish or redistribute the Documentation on another website, repository, application, publication, course, video, social-media account, or other platform.
-3. Modify, translate, adapt, abridge, expand, annotate, or create derivative documentation from it.
-4. Incorporate the Documentation into another tutorial, manual, course, dataset, training resource, product, or service.
-5. Sell, sublicense, rent, monetize, or otherwise use the Documentation commercially.
-6. Remove or alter copyright, attribution, authorship, or rights notices.
-7. represent the Documentation as your own work.
+Unless you receive prior written permission from the copyright owner, you may not:
 
-Linking to the original public repository or associated tutorial video is permitted, provided that the link does not falsely imply sponsorship, endorsement, affiliation, or permission to reuse the Documentation.
+1. Copy or reproduce the documentation, in whole or in substantial part.
+2. Republish or redistribute the documentation.
+3. Modify, translate, adapt, abridge, expand, or create derivative versions of the documentation.
+4. Include the documentation in another repository, website, application, video, course, publication, dataset, product, or service.
+5. Sell, sublicense, monetize, or otherwise commercially exploit the documentation.
+6. Remove or alter copyright, authorship, attribution, or rights notices.
+7. Present the documentation as your own work.
 
-## Quotations and Rights Provided by Law
+## Legal Exceptions
 
-Nothing in these terms is intended to limit quotation, criticism, commentary, review, fair use, fair dealing, or any other right that applicable law grants independently of permission from the copyright owner.
+Nothing in this notice limits any use permitted independently by applicable law, including fair use, fair dealing, criticism, commentary, review, or quotation where legally permitted.
 
 ## No Warranty
 
-The Documentation is provided “as is,” without warranties or conditions of any kind, express or implied. You are responsible for verifying wiring, component ratings, electrical safety, software behavior, and suitability for your intended application.
+The documentation is provided “as is,” without warranties or conditions of any kind, express or implied.
 
-To the maximum extent permitted by law, the copyright owner will not be liable for injury, property damage, data loss, equipment damage, lost profits, or other losses arising from use of or reliance on the Documentation.
+You are responsible for verifying all wiring, electrical ratings, component compatibility, safety requirements, software behavior, and suitability for your intended application.
+
+To the maximum extent permitted by law, the copyright owner will not be liable for injury, property damage, equipment damage, data loss, lost profits, or other losses arising from use of or reliance on the documentation.
 
 ## Permission Requests
 
-Requests to reproduce, adapt, redistribute, or license the Documentation must be submitted to:
+Requests for permission must be sent to:
 
-Charles Forsyth
-charles@charlesforsyth.com
+[YOUR FULL LEGAL NAME]
+[YOUR EMAIL ADDRESS OR WEBSITE]
 
-Permission is granted only through an express written agreement signed or otherwise affirmatively approved by the copyright owner. Silence or failure to respond does not constitute permission.
+Permission is granted only through express written authorization from the copyright owner. Silence or failure to respond does not constitute permission.
