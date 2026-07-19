@@ -640,14 +640,8 @@ This project is provided for educational and prototyping purposes. Verify the de
 
 ## License
 
-Add the licensing terms for the source code and documentation here.
+See [LICENSE-DOCUMENTATION.md](LICENSE-DOCUMENTATION.md) for the complete terms.
 
-Example placeholders:
-
-```text
-Source code license: To be determined
-Documentation license: Copyright © [Year] [Name]. All rights reserved.
-```
 
 ---
 
@@ -655,6 +649,8 @@ Documentation license: Copyright © [Year] [Name]. All rights reserved.
 
 Designed as an educational ESP32-H2, Zigbee, and Home Assistant project.
 
-Project author: **[Your name or channel name]**
+Project author: **Charles Forsyth**
 
-Video channel: **[Channel URL to be added]**
+Video channel: **Charles Forsyth Design**
+
+https://www.youtube.com/@CharlesForsythDesign
